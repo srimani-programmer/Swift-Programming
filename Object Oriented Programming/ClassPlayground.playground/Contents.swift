@@ -2,14 +2,14 @@
 
 import UIKit
 
-class Student{
+class Student{  // Class Declration
     var sName = ""
     var sRollNum = ""
     var sCollege = ""
     var sGrade = ""
 }
 
-let SriMani = Student()
+let SriMani = Student() // Object Creation
 
 SriMani.sName = "Sri Manikanta Palakollu"
 SriMani.sRollNum = "16D41A05F0"
